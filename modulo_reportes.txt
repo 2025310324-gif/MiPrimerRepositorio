@@ -1,2 +1,3 @@
 Modulo de reportes y busquedas - en desarrollo Guarda 
- Se agrego filtro de busqueda por ISBN
+Se agrego filtro de busqueda por ISBN
+Se agrego generacion de reporte general de libros 
