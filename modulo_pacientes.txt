@@ -1,2 +1,3 @@
 Modulo de registro de pacientes - en desarrollo 
 Se agrego formulario de registro 
+Se agrego validacion de datos del paciente
