@@ -1,1 +1,2 @@
-Modulo de inventario de medicamentos - en desarrollo)
+Modulo de inventario de medicamentos - en desarrollo
+Se agrego conexion a base de datos de medicamentos
